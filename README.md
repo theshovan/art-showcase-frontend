@@ -28,7 +28,7 @@ Follow these steps to run the project locally:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/your-username/creative-showcase.git](https://github.com/your-username/creative-showcase.git)
+    git clone [https://github.com/theshovan/creative-showcase.git]
     cd creative-showcase
     ```
 
