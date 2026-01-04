@@ -58,3 +58,6 @@ Follow these steps to run the project locally:
   /pages          # Landing, Login, SignUp, PrivateProfile, PublicProfile
   /services       # firebaseConfig.js
   /styles         # Masonry.css and Global styles
+```
+---
+**Developed by:** [Shovan Bera](https://github.com/theshovan)
