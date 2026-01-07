@@ -2,7 +2,7 @@
 
 **A responsive platform designed for artists to upload and showcase their digital memories and artwork in a stunning masonry layout.**
 
-### 🔗 [Live Demo Hosted Link](https://art-showcase-frontend.vercel.app/)
+### 🔗 [Live Demo Hosted Link](https://art-showcase-frontend-two.vercel.app/)
 
 
 ---
